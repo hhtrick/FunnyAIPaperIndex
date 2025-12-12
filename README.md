@@ -7,18 +7,17 @@
 **[English]**
 I am an ordinary graduate student, buried in piles of literature every day, often finding the work dull and tedious. However, stumbling upon creative and humorous paper titles never fails to bring a smile to my face. 
 
-These titles remind me that the authors behind these complex academic texts are "flesh-and-blood humans" with their own lives, hobbies, and sense of humor. Whenever I encounter such titles, the boredom of reading literature fades away. I created this repository to collect these moments of joy. I will update it periodically and welcome everyone to contribute!
+These titles remind me that the authors behind these complex academic texts are "flesh-and-blood humans" with their own lives, hobbies, and sense of humor. Whenever I encounter such titles, the boredom of reading literature fades away. I created this repository to collect these moments of joy. I will update it periodically (although the number of papers included is still relatively small) and welcome everyone to contribute!
 
 **[中文]**
-我是一名普通的科研研究生，日复一日地埋首于浩如烟海的文献中，时常感到枯燥与乏味。然而，每当偶然瞥见那些充满创意的论文标题，总能让我会心一笑。
+我是一名普通的科研学牲，面对浩如烟海的文献，时常感到枯燥与乏味。然而，每当偶然瞥见那些充满创意的论文标题，总能让我会心一笑。
 
-这些有趣的标题让我真切地感受到，那些学术文字背后的作者，也是有血有肉的人，拥有着鲜活的生活与有趣的灵魂。每每读到这样的标题，阅读文献带来的疲惫似乎也就消解了大半。我会不定期更新这个列表，记录那些让我眼前一亮的瞬间，也热烈欢迎大家提交 PR 补充！
+这些有趣的标题让我真切地感受到，那些学术文字背后的作者，也是有血有肉的人，拥有着鲜活的生活与有趣的灵魂。每每读到这样的标题，阅读文献带来的疲惫似乎也就消解了大半。我会不定期更新这个列表（虽然现在收录的论文还比较少），记录那些让我眼前一亮的瞬间，也热烈欢迎大家提交 PR 补充！
 
 ---
 
 ## 🧾 The Collection / 论文收录
 
-### 🎬 Pop Culture References (流行文化致敬)
 
 | Title (Paper Link) | Authors | Fun Factor / 梗 |
 | :--- | :--- | :--- |
